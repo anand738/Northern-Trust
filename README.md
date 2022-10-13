@@ -9,6 +9,10 @@ On Front page Nav Bar is added and Few content like features, services and few i
 Shop page: Here all th products were listed
 ![image](https://user-images.githubusercontent.com/92677400/195630137-025d7392-d639-400c-9350-e7fbf6cb8d25.png)
 
+Single product
+![image](https://user-images.githubusercontent.com/92677400/195632425-1debe666-458d-4aa2-8528-2e79367f7f4a.png)
+![image](https://user-images.githubusercontent.com/92677400/195632560-5d4aea27-19f9-45a6-804e-6d404ef4ad60.png)
+
 Login page
 ![image](https://user-images.githubusercontent.com/92677400/195632251-7a7a2fad-2024-43a0-b2de-df144be662b9.png)
 
