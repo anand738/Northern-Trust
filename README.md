@@ -9,3 +9,9 @@ Front page
 Shop page
 ![image](https://user-images.githubusercontent.com/92677400/195630137-025d7392-d639-400c-9350-e7fbf6cb8d25.png)
 
+Single product
+![image](https://user-images.githubusercontent.com/92677400/195631173-b3618d07-9509-4b64-a730-4effd7090751.png)
+![image](https://user-images.githubusercontent.com/92677400/195631381-ce4575c8-ec3c-4f89-a2dc-ed9719e443d3.png)
+
+login page
+![image](https://user-images.githubusercontent.com/92677400/195631501-69fc2d25-5e4d-4cd6-ade5-5bd572a57485.png)
