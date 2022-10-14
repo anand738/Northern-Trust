@@ -533,11 +533,22 @@ footer a:hover {
   margin-right: 10px;
 }
 
-#prodetails .single-pro-details button {
+#prodetails .single-pro-details button,
+.center button {
   background-color: #088178;
   color: #fff;
+  transition: 0.3s all ease;
 }
 
+#prodetails .single-pro-details button:hover,
+.center button:hover {
+  background-color: rgb(225, 225, 225);
+  color: #088178;
+}
+
+.center button {
+  margin-top: 1vh;
+}
 /* About Page */
 
 #page-header.about-header {
